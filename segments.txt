@@ -1,0 +1,6 @@
+based on locations 
+based on company branches to determine how big is a company
+based on skill set
+based on no of hirings profession
+based on experience 
+based on employment type
